@@ -1,0 +1,7 @@
+amazon : https://www.amazon.in/s?i=shoes&bbn=1983338031&rh=n%3A1571283031%2Cn%3A1571284031%2Cn%3A1983338031%2Cp_89%3AMARK+%26+KEITH&dc&fst=as%3Aoff&qid=1583528487&rnid=3837712031&ref=sr_pg_1
+
+Flipkart : https://www.flipkart.com/search?sid=reh%2Fihu&otracker=CLP_Filters&p%5B%5D=facets.brand%255B%255D%3DMark%2B%2526%2BKeith&page=1
+
+Ajio : https://www.ajio.com/women-bags-belts-wallets/c/830301?query=%3Arelevance%3Abrand%3AMark%20%26%20Keith&gridColumns=3
+
+Limeroad : https://www.limeroad.com/women-bags?stock%5B%5D=1&classification%5B%5D=.0.1044&brandid%5B%5D=47775

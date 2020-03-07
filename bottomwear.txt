@@ -1,0 +1,7 @@
+amazon: https://www.amazon.in/s?i=apparel&bbn=1968076031&rh=n%3A1571271031%2Cn%3A1571272031%2Cn%3A1968024031%2Cn%3A1968076031%2Cp_89%3APeter+England&dc&fst=as%3Aoff&qid=1583526430&rnid=3837712031&ref=sr_pg_1
+
+ajio : https://www.ajio.com/men-jeans/c/830216001?query=%3Arelevance%3Abrand%3APETER%20ENGLAND&gridColumns=3
+
+limeroad : https://www.limeroad.com/men-jeans?classification%5B%5D=.0.11201585.11201684.11201632&stock%5B%5D=1&brandid%5B%5D=49131
+
+flipkart :done
